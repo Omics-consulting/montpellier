@@ -4,6 +4,8 @@ title: Team
 permalink: /team/
 ---
 
+![alt text](https://www.igh.cnrs.fr/images/EQUIP/76/equipe.jpg "Our Team")
+
 
 |Member | Status |
 | :---:         |     :---:      | 
@@ -19,7 +21,9 @@ Team Members:
 
 
 * Reini Luco Fernandez
-https://www.igh.cnrs.fr/images/people/1619.jpg
+<img style="float: right;" src="https://www.igh.cnrs.fr/images/people/1619.jpg">
+
+
 * Andrew Oldfield - PostDoc
 ![alt text](https://www.igh.cnrs.fr/images/people/1874.jpg "Andrew Oldfield")
 
@@ -40,6 +44,5 @@ https://www.igh.cnrs.fr/images/people/1619.jpg
 ![alt text](https://www.igh.cnrs.fr/images/people/1925.jpg "Johanna Kociemba")
 
 
-![alt text](https://www.igh.cnrs.fr/images/EQUIP/76/equipe.jpg "Our Team")
 
 
