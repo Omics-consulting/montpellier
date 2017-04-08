@@ -7,13 +7,13 @@ permalink: /team/
 Team Members: 
 
 
-Member | Status |
+|Member | Status |
 | :---:         |     :---:      | 
-Reini Luco Fernandez | Team Leader |
-Oldfield Andrew | PostDoc |
-Jean-Philippe Villemin | Bioinformatician |
-Alexande Segelle | PhD |
-Johanna Kociemba | Intern |
+| Reini Luco Fernandez | Team Leader |
+| Oldfield Andrew | PostDoc |
+| Jean-Philippe Villemin | Bioinformatician |
+| Alexande Segelle | PhD |
+| Johanna Kociemba | Intern |
 
 * Reini Luco Fernandez
 

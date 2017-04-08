@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Bronze medal!"
-date:   2017-04-07 18:16:26 +0200
+title:  "The Bronze Medal !"
+date:   2017-04-08 12:16:26 +0200
 categories: jekyll update
 ---
 
