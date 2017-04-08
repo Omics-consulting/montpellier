@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Paper
-permalink: /paper/
+title: Papers
+permalink: /papers/
 ---
 
 Publications of the group "Epigenetics and Splicing"
