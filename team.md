@@ -14,7 +14,7 @@ Team Members:
 
 ![alt text](https://www.igh.cnrs.fr/images/people/1619.jpg "Reini Luco Fernandez")
 
-* **Reini Luco Fernandez**
+* **Reini Luco Fernandez - Team Leader**
 
 ![alt text](https://www.igh.cnrs.fr/images/people/1874.jpg "Andrew Oldfield")
 
@@ -36,7 +36,7 @@ Team Members:
 
 ![alt text](https://www.igh.cnrs.fr/images/people/1925.jpg "Johanna Kociemba")
 
-* **Johanna Kociemba**
+* **Johanna Kociemba -  Intern**
 
 
 
