@@ -6,6 +6,7 @@ permalink: /team/
 
 ![alt text](https://www.igh.cnrs.fr/images/EQUIP/76/equipe.jpg "Our Team")
 
+<center>
 
 |Member | Status |
 | :---:         |     :---:      | 
@@ -15,13 +16,13 @@ permalink: /team/
 | Alexandre Segelle | PhD |
 | Johanna Kociemba | Intern |
 
-
+</center>
 
 Team Members: 
 
 
 * Reini Luco Fernandez
-<img style="float: right;" src="https://www.igh.cnrs.fr/images/people/1619.jpg">
+<img style="float: left;" src="https://www.igh.cnrs.fr/images/people/1619.jpg">
 
 
 * Andrew Oldfield - PostDoc
