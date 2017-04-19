@@ -6,7 +6,7 @@ copyright_name: Reini Luco Lab @t IGH
 description: "News from the Luco's Lab at IGH (Institute of Human Genetics - France)"
 baseurl: "/LucoLab"
 github_username:  LucoLab
-
+url: "https://lucolab.github.io/"
 email_username:  eq-deluco@igh.cnrs.fr
 
 # Google Analytics
