@@ -2,6 +2,8 @@
 layout: page
 title: Team
 permalink: /team/
+description: "The crazy guys !"
+header-img: "img/team-bg.jpg"
 ---
 
 ![alt text](https://www.igh.cnrs.fr/images/EQUIP/76/equipe.jpg "Our Team")

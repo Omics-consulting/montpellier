@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+description: "Our work"
+header-img: "img/about-bg.jpg"
 ---
 
 Alternative splicing is one of the most general and important biological processes in the eukaryotic cell. It affects more than 90% of human genes, it is essential for protein diversity and any misregulation of the highly tissue-specific alternative splicing programs can lead to disease, such as cancer. However the mechanisms of cell-specific alternative splicing regulation are still largely unknown. 

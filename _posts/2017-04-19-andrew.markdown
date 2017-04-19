@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      "Inserm Workshop 245 - Enhancer structure and function"
+date:       2017-04-19 12:00:00
+author:     "Andrew"
+header-img: "img/home-bg.jpg"
+---
+
+Waiting for Andrew :(

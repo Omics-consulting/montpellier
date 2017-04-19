@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "Alex workshop in Zurich "
+date:       2017-04-15 12:00:00
+author:     "Alex"
+header-img: "img/home-bg.jpg"
+---
+
+I'm waiting Alex story about the workshop in Zurich.
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/alex_workshop.jpg" alt="Zurich Castle">
+</a>

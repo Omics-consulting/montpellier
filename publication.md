@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Papers
-permalink: /papers/
+title: Publications
+permalink: /publications/
+header-img: "img/publications-bg.jpg"
 ---
 
 Publications of the group "Epigenetics and Splicing"
