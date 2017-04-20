@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      "New web site is open"
+date:       2017-04-20 12:00:00
+author:     "JP"
+header-img: "img/home-bg.jpg"
+---
+
+Voila :)
