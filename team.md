@@ -6,13 +6,6 @@ description: "The crazy guys !"
 header-img: "img/team-bg.jpg"
 ---
 
-![alt text](https://www.igh.cnrs.fr/images/EQUIP/76/equipe.jpg "Our Team")
-
-
-Team Members: 
-
-
-
 
 ![alt text](https://www.igh.cnrs.fr/images/people/1619.jpg "Reini Luco Fernandez")
 
