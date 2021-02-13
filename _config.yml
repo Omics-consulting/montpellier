@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email:  omics@gmail.com
 copyright_name: Jean-Philippe Villemin @ Omics
 description: "Omics : Consulting in genomics and bioinformatics."
-baseurl: ""
+baseurl: "home"
 github_username:  ZheFrenchKitchen
 url: "https://ZheFrenchKitchen.github.io/"
 email_username:  jpvillemin@gmail.com
